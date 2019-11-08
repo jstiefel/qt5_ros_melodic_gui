@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>qt5_ros_melodic_gui</name>
+  <version>0.1.0</version>
+  <description>
+    The nav User Interface based on Qt 5 for ROS Melodic.
+  </description>
+
+  <author email="jstiefel@ethz.ch">Julian Stiefel</author>
+  <maintainer email="jstiefel@ethz.ch">Julian Stiefel</maintainer>
+
+  <license>To Do</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <!-- Non-ROS packages can be listed here:
+  https://github.com/ros/rosdistro/blob/master/rosdep/base.yaml,
+  but not in combination with catkin_simple
+  <depend>qtbase5-dev</depend>
+  <depend>qtdeclarative5-dev</depend>
+  <depend>qtmultimedia5-dev</depend>
+  <depend>libqt5-svg-dev</depend>
+  <depend>libqt5multimedia5-plugins</depend>
+  -->
+
+</package>
