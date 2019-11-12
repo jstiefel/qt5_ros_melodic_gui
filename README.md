@@ -1,4 +1,4 @@
-# A User Interface Package Template for ROS Melodic based on Qt5
+# A User Interface Package Template for ROS Melodic based on Qt5 Widgets
 
 ![GUI](resources/images/gui.png?raw=true "GUI")
 
